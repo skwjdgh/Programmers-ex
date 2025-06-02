@@ -1,6 +1,5 @@
 <p align>
-  <img src = "https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=
-Coding%20Ex&descAlign=59&section=header">
+  <img src = "https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Coding%20Ex&descAlign=59&section=header">
 
 이 저장소는 [프로그래머스(programmers.co.kr)](https://programmers.co.kr)에서 제공하는 코딩 문제들의 풀이 예제를 모아둔 공간입니다.
 문제 해결 능력 향상과 알고리즘 학습을 위해 다양한 언어로 구현된 예제들을 제공합니다.
